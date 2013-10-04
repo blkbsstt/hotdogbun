@@ -1,7 +1,7 @@
 hotdogbun.py
 ============
 
-This is a fork of the excellent conference paper splitting script, [hotdogbun](https://github.com/cscorley/hotdogbun),
+This is a fork of the excellent conference paper splitting script [hotdogbun](https://github.com/cscorley/hotdogbun)
 by [cscorley](https://github.com/cscorley).
 
 
